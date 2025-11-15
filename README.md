@@ -4,6 +4,11 @@ Minimal Express server for the Hero Apps project.
 
 Quick start
 
+0. Name
+```bash
+Jinnah
+```
+
 1. Install dependencies
 
 ```bash
